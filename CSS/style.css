@@ -1,0 +1,66 @@
+body
+{
+    background-color: skyblue;
+        /* background-color: rgb(135, 206, 235)
+        background-color: #87ceeb */
+    color: gainsboro;
+    margin: 0px;
+}
+h1
+{
+    color: floralwhite;
+    font-size: 150px;
+    text-align: center;
+}
+img
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px solid #cccccc;
+    border: 10px dashed;
+    }
+p
+{
+        font-size: 40px;
+}
+.para1
+{
+    background-image: none;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+.paragraphe
+{
+    background-color: gray;
+    padding: 20px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+}
+.para
+{
+    font-family: fantasy;
+    background-color: hotpink;
+    padding: 20px;
+    margin: auto;
+    width: 50%;
+}
+iframe
+{
+    display: block;
+    margin: auto;
+}
+a
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.btn
+{
+    display: block;
+    margin-top: 0px;
+}
